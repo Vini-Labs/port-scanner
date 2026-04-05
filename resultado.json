@@ -1,0 +1,15 @@
+{
+    "host": "google.com",
+    "portas": [
+        {
+            "porta": 443,
+            "servico": "https",
+            "banner": ""
+        },
+        {
+            "porta": 80,
+            "servico": "http",
+            "banner": ""
+        }
+    ]
+}
